@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:text="Espana"
+        android:id="@+id/btn1"
+        android:layout_weight="0.21" />
+
+    <Button
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:text="Dapitan"
+        android:id="@+id/btn2"
+        android:layout_weight="0.21"
+        android:layout_gravity="right" />
+
+    <Button
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:text="Lacson"
+        android:id="@+id/btn3"
+        android:layout_weight="0.21" />
+
+    <Button
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:text="P. Noval"
+        android:id="@+id/btn4"
+        android:layout_gravity="right"
+        android:layout_weight="0.21" />
+</LinearLayout>

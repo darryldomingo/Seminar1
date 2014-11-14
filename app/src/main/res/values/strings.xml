@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seminar1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btn1">New Button</string>
+    <string name="btn2">New Button</string>
+    <string name="btn3">New Button</string>
+    <string name="btn4">New Button</string>
+    <string name="button">Click here</string>
+    <string name="UST_Dorm_Finder">UST Dorm\nFinder</string>
+
+</resources>
